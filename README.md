@@ -40,4 +40,4 @@ Check out my [GitHub repository](https://github.com/paulohsousa) to delve into t
 I am excited about opportunities that align with my skills and values, and I look forward to contributing to a collaborative, forward-thinking team. Feel free to reach out for a conversation or explore potential collaborations. Together, let's shape a future where innovation and learning thrive! 🌐✨
 
 ## Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  style:"width:50px;height:50px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style:"width:50px;height:50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  />
