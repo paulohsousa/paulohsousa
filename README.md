@@ -38,6 +38,4 @@ Check out my [GitHub repository](https://github.com/paulohsousa) to delve into t
 ## Let's Connect!
 
 I am excited about opportunities that align with my skills and values, and I look forward to contributing to a collaborative, forward-thinking team. Feel free to reach out for a conversation or explore potential collaborations. Together, let's shape a future where innovation and learning thrive! 🌐✨
-```
 
-Feel free to customize this further to better fit your style or add more details as needed.
