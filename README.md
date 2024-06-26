@@ -15,7 +15,7 @@ Embarking on my front-end development journey as a self-starter, I quickly reali
 
 At present, I am focused on developing techniques for problem-solving through the creation of web, mobile, and PWA applications. My technical toolkit includes:
 
-- JavaScript and TypeScript  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+- JavaScript and TypeScript     
 - Front-end and Back-end Development
 - REST API Integration and Node.js
 - Dynamic and Cross-Platform Websites
@@ -39,3 +39,5 @@ Check out my [GitHub repository](https://github.com/paulohsousa) to delve into t
 
 I am excited about opportunities that align with my skills and values, and I look forward to contributing to a collaborative, forward-thinking team. Feel free to reach out for a conversation or explore potential collaborations. Together, let's shape a future where innovation and learning thrive! 🌐✨
 
+## Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  style:"width:50px;height:50px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style:"width:50px;height:50px" />
