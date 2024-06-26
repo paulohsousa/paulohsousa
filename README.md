@@ -1,6 +1,4 @@
-Here is a well-crafted `README.md` for your GitHub profile, reflecting your passion, journey, and skills:
 
-```markdown
 # Paulo H. Sousa
 
 **Passionate Front-End Developer | Problem Solver | UX Enthusiast**
