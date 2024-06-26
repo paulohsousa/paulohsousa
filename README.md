@@ -15,11 +15,7 @@ Embarking on my front-end development journey as a self-starter, I quickly reali
 
 At present, I am focused on developing techniques for problem-solving through the creation of web, mobile, and PWA applications. My technical toolkit includes:
 
-- JavaScript 
-           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-          and TypeScript
+- JavaScript and TypeScript  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 - Front-end and Back-end Development
 - REST API Integration and Node.js
 - Dynamic and Cross-Platform Websites
