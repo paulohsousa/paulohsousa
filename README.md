@@ -2,7 +2,7 @@
 ![octocat-1719623216620](https://github.com/paulohsousa/paulohsousa/assets/20420330/5e268461-7d40-4ac4-809e-67279084c2bb)
 
 # Paulo H. Sousa
-
+ 
 **Passionate Front-End Developer | Problem Solver | UX Enthusiast**
 
 ## Greetings! 👋
